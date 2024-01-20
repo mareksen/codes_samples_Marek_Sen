@@ -72,7 +72,7 @@ public class UserInterface {
         System.out.println("Insured person added successfully.");
     }
 
-    // Method to search for an insured person
+    // Metod to searching for an insured person
     private void searchForInsuredPerson() {
         // Check if there are any insured persons to search
         if (manager.getInsuredList().isEmpty()) {
